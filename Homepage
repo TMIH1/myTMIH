@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TMIH | Home</title>
+  <link rel="stylesheet" href="assets/css/style.css"/>
+</head>
+<body>
+  <header>
+    <h1>TMIH</h1>
+    <p>Task Make it Happen — Inspiring the Next Generation of Thinkers</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="dashboard/student.html">Student Portal</a>
+    <a href="dashboard/teacher.html">Teacher Portal</a>
+    <a href="dashboard/admin.html">Admin</a>
+    <a href="login.html">Login</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Courses</h2>
+      <div class="course-grid">
+        <div class="course-card"><a href="courses/auto-and-design/index.html">Auto and Design</a></div>
+        <div class="course-card"><a href="courses/website-designers/index.html">Website Designers</a></div>
+        <div class="course-card"><a href="courses/coding-101/index.html">Coding 101</a></div>
+        <div class="course-card"><a href="courses/science-of-mathematics/index.html">Science of Mathematics</a></div>
+        <div class="course-card"><a href="courses/governology/index.html">Governology</a></div>
+        <div class="course-card"><a href="courses/botanic-juniors/index.html">Botanic Juniors</a></div>
+        <div class="course-card"><a href="courses/digital-basics/index.html">Digital Basics</a></div>
+        <div class="course-card"><a href="courses/economical-producers/index.html">Economical Producers</a></div>
+        <div class="course-card"><a href="courses/global-challenges/index.html">Global Challenges</a></div>
+        <div class="course-card"><a href="courses/data-detectives/index.html">Data Detectives</a></div>
+        <div class="course-card"><a href="courses/urban-design/index.html">Urban Design</a></div>
+        <div class="course-card"><a href="courses/inter-middle-of-studies/index.html">Inter: The Middle of Studies</a></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 TMIH. Powered by students, built for learners.</p>
+  </footer>
+</body>
+</html>
